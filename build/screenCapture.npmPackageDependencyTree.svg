@@ -1,0 +1,54 @@
+<svg height="814" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="814" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">5 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ testlingify@0.3.0 </tspan>
+<tspan x="10" y="90">  ├─┬ configurate@0.1.4 </tspan>
+<tspan x="10" y="106">  │ ├── runnel@0.5.3 </tspan>
+<tspan x="10" y="122">  │ └─┬ sinless@0.1.0 </tspan>
+<tspan x="10" y="138">  │   └── setimmediate@1.0.5 </tspan>
+<tspan x="10" y="154">  ├── find-parent-dir@0.1.0 </tspan>
+<tspan x="10" y="170">  ├─┬ json-file-plus@0.2.3 </tspan>
+<tspan x="10" y="186">  │ ├── is@0.2.7 </tspan>
+<tspan x="10" y="202">  │ └─┬ node.extend@1.0.10 </tspan>
+<tspan x="10" y="218">  │   └── is@0.3.0 </tspan>
+<tspan x="10" y="234">  ├── mkdirp@0.3.5 </tspan>
+<tspan x="10" y="250">  ├─┬ npmlog@0.0.2 </tspan>
+<tspan x="10" y="266">  │ └── ansi@0.1.2 </tspan>
+<tspan x="10" y="282">  ├─┬ promfig@0.1.2 </tspan>
+<tspan x="10" y="298">  │ ├─┬ promptly@0.2.1 </tspan>
+<tspan x="10" y="314">  │ │ └─┬ read@1.0.7 </tspan>
+<tspan x="10" y="330">  │ │   └── mute-stream@0.0.7 </tspan>
+<tspan x="10" y="346">  │ ├── pw@0.0.4 </tspan>
+<tspan x="10" y="362">  │ └─┬ xtend@2.1.2 </tspan>
+<tspan x="10" y="378">  │   └── object-keys@0.4.0 </tspan>
+<tspan x="10" y="394">  ├─┬ request@2.21.0 </tspan>
+<tspan x="10" y="410">  │ ├── aws-sign@0.3.0 </tspan>
+<tspan x="10" y="426">  │ ├── cookie-jar@0.3.0 </tspan>
+<tspan x="10" y="442">  │ ├── forever-agent@0.5.2 </tspan>
+<tspan x="10" y="458">  │ ├─┬ form-data@0.0.8 </tspan>
+<tspan x="10" y="474">  │ │ ├── async@0.2.10 </tspan>
+<tspan x="10" y="490">  │ │ └─┬ combined-stream@0.0.7 </tspan>
+<tspan x="10" y="506">  │ │   └── delayed-stream@0.0.5 </tspan>
+<tspan x="10" y="522">  │ ├─┬ hawk@0.13.1 </tspan>
+<tspan x="10" y="538">  │ │ ├─┬ boom@0.4.2 </tspan>
+<tspan x="10" y="554">  │ │ │ └── hoek@0.9.1 </tspan>
+<tspan x="10" y="570">  │ │ ├── cryptiles@0.2.2 </tspan>
+<tspan x="10" y="586">  │ │ ├── hoek@0.8.5 </tspan>
+<tspan x="10" y="602">  │ │ └─┬ sntp@0.2.4 </tspan>
+<tspan x="10" y="618">  │ │   └── hoek@0.9.1 </tspan>
+<tspan x="10" y="634">  │ ├─┬ http-signature@0.9.11 </tspan>
+<tspan x="10" y="650">  │ │ ├── asn1@0.1.11 </tspan>
+<tspan x="10" y="666">  │ │ ├── assert-plus@0.1.2 </tspan>
+<tspan x="10" y="682">  │ │ └── ctype@0.5.2 </tspan>
+<tspan x="10" y="698">  │ ├── json-stringify-safe@4.0.0 </tspan>
+<tspan x="10" y="714">  │ ├── mime@1.2.11 </tspan>
+<tspan x="10" y="730">  │ ├── node-uuid@1.4.8 </tspan>
+<tspan x="10" y="746">  │ ├── oauth-sign@0.3.0 </tspan>
+<tspan x="10" y="762">  │ ├── qs@0.6.6 </tspan>
+<tspan x="10" y="778">  │ └── tunnel-agent@0.3.0 </tspan>
+<tspan x="10" y="794">  └── resolve-git-remote@0.1.1</tspan>
+</text>
+</svg>
